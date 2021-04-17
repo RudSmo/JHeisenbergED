@@ -6,5 +6,5 @@ Julia modules for exact diagonalization of 1D Heisenberg model
 
 and exact time-evolution
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{v}(t)&space;=&space;U^\dagger&space;\mathrm{e}^{-iD&space;t}&space;U&space;\mathbf{v}_0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{v}(t)&space;=&space;U^\dagger&space;\mathrm{e}^{-iD&space;t}&space;U&space;\mathbf{v}_0" title="\mathbf{v}(t) = U^\dagger \mathrm{e}^{-iD t} U \mathbf{v}_0." /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\mathbf{v}(t)&space;=&space;U^\dagger&space;\mathrm{e}^{-iD&space;t}&space;U&space;\mathbf{v}_0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathbf{v}(t)&space;=&space;U^\dagger&space;\mathrm{e}^{-iD&space;t}&space;U&space;\mathbf{v}_0" title="\mathbf{v}(t) = U^\dagger \mathrm{e}^{-iD t} U \mathbf{v}_0," /></a> where <a href="https://www.codecogs.com/eqnedit.php?latex=H&space;=&space;UDU^\dagger" target="_blank"><img src="https://latex.codecogs.com/gif.latex?H&space;=&space;UDU^\dagger" title="H = UDU^\dagger" /></a>.
 
